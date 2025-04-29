@@ -16,7 +16,7 @@ const ComponentsScreen = () => { // or = function() {}
 //StyleSheet
 const styles = StyleSheet.create({
     titleStyle: {
-        fontSize: 45
+        fontSize: 40
     },
     subHeadStyle: {
         fontSize: 20
